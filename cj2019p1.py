@@ -35,3 +35,4 @@ if __name__ == '__main__':
     for i in range(int(input())):
         num=blackmagic(int(input()))
         print("Case #"+str(i+1)+": "+str(num[0])+" "+str(num[1]))
+        
